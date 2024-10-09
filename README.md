@@ -14,6 +14,6 @@ git clone https://github.com/chris1111/WIFI-ON.git && cd $HOME/WIFI-ON && xattr 
 ```
 
 ### Run the Script WIFI-ON only once, WIFI-ON.app will be installed in Applications.
-- You are ok the Wifi icon will be perfect at each reboot.
+- You are ok the Wifi icon will be perfect at each reboot withou clicking on it.
 
 ![Screenshot](https://github.com/user-attachments/assets/b4848ad7-6dd4-401c-981e-0a4cd5b7ec67)
