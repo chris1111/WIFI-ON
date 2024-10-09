@@ -1,5 +1,5 @@
 # WIFI-ON
-Fix issue Wifi icon grayed out.
+Fix issue Wifi icon grayed out on Sequoia 15 using OCLP.
 
  Building ⬇︎
 
