@@ -2,6 +2,10 @@
 Fix issue Wifi icon grayed out on Sequoia 15 using OCLP.
 - SIP must be disable
 
+🔍 View Cde [Install Script](https://github.com/chris1111/WIFI-ON/blob/main/Source-Script/Install.scpt)
+
+🔍 View Code [Main Script](https://github.com/chris1111/WIFI-ON/blob/main/Source-Script/main.scpt)
+
  Building ⬇︎
 
 - [x] `Building:`
