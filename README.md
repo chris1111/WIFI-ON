@@ -1,5 +1,5 @@
 # WIFI-ON
-Fix issue Wifi icon grayed out on Sequoia 15 using OCLP.
+Fix an issue Wifi icon grayed out on Sequoia 15 using OCLP.
 - Of course your Broadcom Wifi must be functional, this does not fix a non-functional Wifi.
 - SIP must be disable
 
